@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+joblib
+Pillow
+opencv-python
+statistics
+scikit-learn
+pymysql
+base64
+fpdf
